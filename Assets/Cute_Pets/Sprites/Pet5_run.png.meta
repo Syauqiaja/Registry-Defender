@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: 0616d5ca2ade1ba4a9b72aa00a9f288e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8804585711880395146
+    second: Pet5_run_0
+  - first:
+      213: -5827235966908320862
+    second: Pet5_run_1
+  - first:
+      213: -7595389286396437986
+    second: Pet5_run_2
+  - first:
+      213: -5832695413879226719
+    second: Pet5_run_3
+  - first:
+      213: 4781150947475741056
+    second: Pet5_run_4
+  - first:
+      213: 5928460337484132708
+    second: Pet5_run_5
+  - first:
+      213: 8597872895329053539
+    second: Pet5_run_6
+  - first:
+      213: -5645656053713471662
+    second: Pet5_run_7
+  - first:
+      213: 2569512307055890628
+    second: Pet5_run_8
+  - first:
+      213: -2365261578167008245
+    second: Pet5_run_9
+  - first:
+      213: -3005195275512035143
+    second: Pet5_run_10
+  - first:
+      213: 8831774937345940106
+    second: Pet5_run_11
+  - first:
+      213: -6227902035755529962
+    second: Pet5_run_12
+  - first:
+      213: -230809886948804530
+    second: Pet5_run_13
+  - first:
+      213: 8281638062063542969
+    second: Pet5_run_14
+  - first:
+      213: -9220155336393504858
+    second: Pet5_run_15
+  - first:
+      213: -8121038694536904466
+    second: Pet5_run_16
+  - first:
+      213: 4032094807018875894
+    second: Pet5_run_17
+  - first:
+      213: -2770592208390455382
+    second: Pet5_run_18
+  - first:
+      213: -1952144720234415494
+    second: Pet5_run_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pet5_run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1419
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a895c176e0c203a70800000000000000
+      internalID: 8804585711880395146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1419
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3bc0a13cf712fa0800000000000000
+      internalID: -5827235966908320862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_2
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1419
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5885afa1c79690800000000000000
+      internalID: -7595389286396437986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_3
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1419
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aebdac8c6a1e0fa0800000000000000
+      internalID: -5832695413879226719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_4
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1419
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08950d1847f0a5240800000000000000
+      internalID: 4781150947475741056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461fbb0444f164250800000000000000
+      internalID: 5928460337484132708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 946
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b2c0648d7c15770800000000000000
+      internalID: 8597872895329053539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_7
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 946
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257ff5a2bb996a1b0800000000000000
+      internalID: -5645656053713471662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_8
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 946
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c09f0454ddb8a320800000000000000
+      internalID: 2569512307055890628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_9
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 946
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04c9785027ec2fd0800000000000000
+      internalID: -2365261578167008245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b84c62b1d66b46d0800000000000000
+      internalID: -3005195275512035143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 473
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ad3b44384c09a70800000000000000
+      internalID: 8831774937345940106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_12
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 473
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6190cd6681c0299a0800000000000000
+      internalID: -6227902035755529962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_13
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 473
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48b4c571affbccf0800000000000000
+      internalID: -230809886948804530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_14
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 473
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2e6af70f94ee270800000000000000
+      internalID: 8281638062063542969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c750729d6b0080800000000000000
+      internalID: -9220155336393504858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee00dec95564c4f80800000000000000
+      internalID: -8121038694536904466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_17
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbae013dd0e4f730800000000000000
+      internalID: 4032094807018875894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_18
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 0
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaffb61d011ec89d0800000000000000
+      internalID: -2770592208390455382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet5_run_19
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 0
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7af54848b698e4e0800000000000000
+      internalID: -1952144720234415494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pet5_run_0: 8804585711880395146
+      Pet5_run_1: -5827235966908320862
+      Pet5_run_10: -3005195275512035143
+      Pet5_run_11: 8831774937345940106
+      Pet5_run_12: -6227902035755529962
+      Pet5_run_13: -230809886948804530
+      Pet5_run_14: 8281638062063542969
+      Pet5_run_15: -9220155336393504858
+      Pet5_run_16: -8121038694536904466
+      Pet5_run_17: 4032094807018875894
+      Pet5_run_18: -2770592208390455382
+      Pet5_run_19: -1952144720234415494
+      Pet5_run_2: -7595389286396437986
+      Pet5_run_3: -5832695413879226719
+      Pet5_run_4: 4781150947475741056
+      Pet5_run_5: 5928460337484132708
+      Pet5_run_6: 8597872895329053539
+      Pet5_run_7: -5645656053713471662
+      Pet5_run_8: 2569512307055890628
+      Pet5_run_9: -2365261578167008245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

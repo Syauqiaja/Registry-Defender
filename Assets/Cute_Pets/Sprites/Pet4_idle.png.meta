@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: 308bfbaa91c2820469aba84bdd20a00f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7790420320471402056
+    second: Pet4_idle_0
+  - first:
+      213: -8221949709745455570
+    second: Pet4_idle_1
+  - first:
+      213: -5104617458832967461
+    second: Pet4_idle_2
+  - first:
+      213: 2585980937570099295
+    second: Pet4_idle_3
+  - first:
+      213: -3268401291641285127
+    second: Pet4_idle_4
+  - first:
+      213: 7779480874215799595
+    second: Pet4_idle_5
+  - first:
+      213: 6620643242826205699
+    second: Pet4_idle_6
+  - first:
+      213: 562983068817355826
+    second: Pet4_idle_7
+  - first:
+      213: 7898229836638923090
+    second: Pet4_idle_8
+  - first:
+      213: 8905144640420274012
+    second: Pet4_idle_9
+  - first:
+      213: 6870492029127813909
+    second: Pet4_idle_10
+  - first:
+      213: -3536177036361727795
+    second: Pet4_idle_11
+  - first:
+      213: -9033045027238178230
+    second: Pet4_idle_12
+  - first:
+      213: -1130109708084143141
+    second: Pet4_idle_13
+  - first:
+      213: -3884392697163548836
+    second: Pet4_idle_14
+  - first:
+      213: 4751227427986654290
+    second: Pet4_idle_15
+  - first:
+      213: -8661427903114046425
+    second: Pet4_idle_16
+  - first:
+      213: -8148087274748147838
+    second: Pet4_idle_17
+  - first:
+      213: 100747185453069192
+    second: Pet4_idle_18
+  - first:
+      213: -7602620596702308716
+    second: Pet4_idle_19
+  - first:
+      213: -161477528456432075
+    second: Pet4_idle_20
+  - first:
+      213: -6559591252361924876
+    second: Pet4_idle_21
+  - first:
+      213: -4850352166201666684
+    second: Pet4_idle_22
+  - first:
+      213: 295953703135962726
+    second: Pet4_idle_23
+  - first:
+      213: 7410400209149107535
+    second: Pet4_idle_24
+  - first:
+      213: -6815161622222065598
+    second: Pet4_idle_25
+  - first:
+      213: -2482240267090383812
+    second: Pet4_idle_26
+  - first:
+      213: 334880130195107195
+    second: Pet4_idle_27
+  - first:
+      213: 5382703485795236067
+    second: Pet4_idle_28
+  - first:
+      213: -3470066162947009056
+    second: Pet4_idle_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pet4_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2365
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846ceac81022d1c60800000000000000
+      internalID: 7790420320471402056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2365
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2efe7dfc44c5ed80800000000000000
+      internalID: -8221949709745455570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_2
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2365
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8f0047771c829b0800000000000000
+      internalID: -5104617458832967461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_3
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2365
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f502ccb26ff33e320800000000000000
+      internalID: 2585980937570099295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_4
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 2365
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f51b4c875e44a2d0800000000000000
+      internalID: -3268401291641285127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1892
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bf39c33a446fb60800000000000000
+      internalID: 7779480874215799595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1892
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a0f31a3ff31eb50800000000000000
+      internalID: 6620643242826205699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1892
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234fa674e1e10d700800000000000000
+      internalID: 562983068817355826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1892
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259214790362c9d60800000000000000
+      internalID: 7898229836638923090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_9
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1892
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f59b57edd659b70800000000000000
+      internalID: 8905144640420274012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1419
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51be05c5914e85f50800000000000000
+      internalID: 6870492029127813909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1419
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc004cc88b9fceec0800000000000000
+      internalID: -3536177036361727795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1419
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a421c57286d24a280800000000000000
+      internalID: -9033045027238178230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1419
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb9c64453b0150f0800000000000000
+      internalID: -1130109708084143141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_14
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1419
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57f17d1c6dd71ac0800000000000000
+      internalID: -3884392697163548836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254cc343c20cfe140800000000000000
+      internalID: 4751227427986654290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 946
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7241b3b563d6cc780800000000000000
+      internalID: -8661427903114046425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 946
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28781c54bcd2cee80800000000000000
+      internalID: -8148087274748147838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_18
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 946
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883fc09080de56100800000000000000
+      internalID: 100747185453069192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_19
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 946
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4969d7309d01e7690800000000000000
+      internalID: -7602620596702308716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536752d1b0152cdf0800000000000000
+      internalID: -161477528456432075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_21
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 473
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe253b9286a7f4a0800000000000000
+      internalID: -6559591252361924876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 473
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483d002376610bcb0800000000000000
+      internalID: -4850352166201666684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_23
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 473
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666616133507b1400800000000000000
+      internalID: 295953703135962726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_24
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 473
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d10dd6ab707d660800000000000000
+      internalID: 7410400209149107535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403494ec9eab61a0800000000000000
+      internalID: -6815161622222065598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_26
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c28e8e0af4d8dd0800000000000000
+      internalID: -2482240267090383812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_27
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dad9244bbb5a400800000000000000
+      internalID: 334880130195107195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 0
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8f4123d4433ba40800000000000000
+      internalID: 5382703485795236067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pet4_idle_29
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 0
+        width: 666
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5d072c539d7dfc0800000000000000
+      internalID: -3470066162947009056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pet4_idle_0: 7790420320471402056
+      Pet4_idle_1: -8221949709745455570
+      Pet4_idle_10: 6870492029127813909
+      Pet4_idle_11: -3536177036361727795
+      Pet4_idle_12: -9033045027238178230
+      Pet4_idle_13: -1130109708084143141
+      Pet4_idle_14: -3884392697163548836
+      Pet4_idle_15: 4751227427986654290
+      Pet4_idle_16: -8661427903114046425
+      Pet4_idle_17: -8148087274748147838
+      Pet4_idle_18: 100747185453069192
+      Pet4_idle_19: -7602620596702308716
+      Pet4_idle_2: -5104617458832967461
+      Pet4_idle_20: -161477528456432075
+      Pet4_idle_21: -6559591252361924876
+      Pet4_idle_22: -4850352166201666684
+      Pet4_idle_23: 295953703135962726
+      Pet4_idle_24: 7410400209149107535
+      Pet4_idle_25: -6815161622222065598
+      Pet4_idle_26: -2482240267090383812
+      Pet4_idle_27: 334880130195107195
+      Pet4_idle_28: 5382703485795236067
+      Pet4_idle_29: -3470066162947009056
+      Pet4_idle_3: 2585980937570099295
+      Pet4_idle_4: -3268401291641285127
+      Pet4_idle_5: 7779480874215799595
+      Pet4_idle_6: 6620643242826205699
+      Pet4_idle_7: 562983068817355826
+      Pet4_idle_8: 7898229836638923090
+      Pet4_idle_9: 8905144640420274012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
